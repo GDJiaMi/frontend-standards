@@ -323,3 +323,13 @@ deploy:
   script: yarn deploy
   only: *release_ref
 ```
+
+## 扩展
+
+- [如何写好 Git commit log?](https://www.zhihu.com/question/21209619)
+- [提交信息emoji规范](https://gitmoji.carloscuesta.me)
+- [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+- [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+- [git钩子定制团队代码提交流程规范](https://www.jianshu.com/p/527e34f53b51)
+- [保持fork之后的项目和上游同步](https://github.com/staticblog/wiki/wiki/%E4%BF%9D%E6%8C%81fork%E4%B9%8B%E5%90%8E%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%92%8C%E4%B8%8A%E6%B8%B8%E5%90%8C%E6%AD%A5)
+
