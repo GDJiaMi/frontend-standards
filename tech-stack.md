@@ -52,12 +52,17 @@
       - ionic-react
   - 开发模式
     - ✅ react hooks
+  - 异步处理
+    - rxjs
   - 数据可视化
     - rechart
   - websocket
     - sockjs
   - 地图
     - react-bdmap
+  - 图标
+    - ✅ svg: 配合`svgr`转换为react组件
+    - iconfont
 
 ## 样式
 
