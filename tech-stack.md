@@ -78,14 +78,21 @@
 ## QA
 
 - 测试
-  - jest
-  - enzyme: react组件测试
+  - 测试框架
+    - [jest](https://jestjs.io/docs/en/tutorial-react)
+  - 组件测试
+    - [react-testing-library](https://github.com/kentcdodds/react-testing-library)
+    - enzyme: react组件测试
+  - hooks 测试
+    - [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library)
   - puppeteer: headless chrome
 
 - lint
   - tslint
   - stylelint
-- ✅ prettier
+
+- 代码格式化
+  - ✅ prettier
 
 ## 构建(项目构建统一使用@gdjiami/cli)
 
