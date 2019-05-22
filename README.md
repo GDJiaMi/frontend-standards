@@ -13,6 +13,7 @@
   - [发布](development.md#发布工作流)
   - [持续集成](development.md#持续集成)
 - [技术栈规范](tech-stack.md)
+  - [React开发规范](tech-stack.md#react-开发规范)
 - [版本库规范](repo.md)
 - [浏览器兼容规范](browser-compatibility.md)
 - [代码规范](code.md)
